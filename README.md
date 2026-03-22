@@ -165,4 +165,4 @@ GET https://plotrix-backend.onrender.com/api/v1/cities
 
 ## Author
 
-**Kunal Saha** — building [OneNeev](https://linkedin.com/in/yourprofile), a group real estate buying platform.
+**Kunal Saha** — building [OneNeev](https://www.linkedin.com/company/oneneev/), OWN REAL ESTATE • TOGETHER 
